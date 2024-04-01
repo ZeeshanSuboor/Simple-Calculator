@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 console.log("This is my simple calculator code");
 
 import inquirer from "inquirer";

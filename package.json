@@ -1,15 +1,16 @@
 {
-  "name": "class01",
+  "name": "zs-simple-calculator",
   "version": "1.0.0",
-  "description": "",
+  "description": "My first Calculatortsc",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@inquirer/checkbox": "^2.2.0",
     "@inquirer/select": "^2.2.0",
